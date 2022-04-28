@@ -1,2 +1,2 @@
-# Guia-de-ingl-s-para-dev
+# Guia-de-ingles-para-dev
 Guia básico para desenvolvedores iniciantes.
